@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome 👋
+
+Hi, I’m Janik Dotzel, a Software Engineer at Akka.
+
+I design and implement Distributed Systems for enterprise scale.
+
+Currently I'm exploring and writing about Agentic AI.
 
 <!--
 **janikdotzel/janikdotzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
